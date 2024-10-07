@@ -3,7 +3,7 @@
 
 <h1>Razorpay Clone</h1>
 
-<p>This project is a front-end clone of Razorpay, built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>Tailwind CSS</strong>. It replicates the user interface of Razorpay, showcasing responsive web design and efficient use of Tailwind for styling.</p>
+<p>This project is a front-end clone of Razorpay, built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>Tailwind CSS</strong>. It replicates the user interface of Razorpay, showcasing efficient use of Tailwind for styling.</p>
 
 <h2>Features</h2>
 <ul>
